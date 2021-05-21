@@ -8,7 +8,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#5DB4F7"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -17,13 +17,17 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "icon": "./assets/adaptive-icon.png",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ident.weather"
     },
     "android": {
+      "icon": "./assets/icon.png",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "backgroundColor": "#5DB4F7"
+      },
+      "package": "com.ident.weather"
     },
     "web": {
       "favicon": "./assets/favicon.png"
