@@ -6,7 +6,7 @@ Learning React Native by building a Foking Weather App
 
 <br />
 
-<p align="center"><img src="./img/run.gif" style="max-width:50%, height:auto"><p/>
+<p align="center"><img src="./img/run.gif"  width=50% height=auto /><p/>
 
 [![](https://img.shields.io/badge/weatherApp-watch-white?logo=expo&labelColor=2c2c2c)](https://expo.io/@jwonder/projects/weatherApp)
 
@@ -53,8 +53,7 @@ Learning React Native by building a Foking Weather App
 <br />
 
 <p align="center">
-  <img src="./img/gps.jpg" style="max-width:50%, height:auto">
-  <img src="./img/error.jpg" style="max-width:50%, height:auto">
+  <img src="./img/gps.jpg" width=50% height=auto /> <img src="./img/error.jpg" width=50% height=auto">
 <p/>
 
 <br />
@@ -152,7 +151,7 @@ getWeather = async (latitude, longitude) => {
 
 <br />
 
-<p align="center"><img src="./img/weather.jpg"><p/>
+<p align="center"><img src="./img/weather.jpg"  width=50% height=auto ><p/>
 
 <br />
 
