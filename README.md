@@ -1,4 +1,4 @@
-# weatherApp
+# 🌧weatherApp
 
 <br />
 
@@ -8,7 +8,7 @@ Learning React Native by building a Foking Weather App
 
 <p align="center"><img src="./img/run.gif" style="max-width:50%, height:auto"><p/>
 
-[프로젝트 보기](https://expo.io/@jwonder/projects/weatherApp)
+[![](https://img.shields.io/badge/weatherApp-watch-white?logo=expo&labelColor=2c2c2c)](https://expo.io/@jwonder/projects/weatherApp)
 
 <br />
 
@@ -21,7 +21,7 @@ Learning React Native by building a Foking Weather App
 
 <br />
 
-## **사용기술**
+## **🛠사용기술**
 
 <br />
 
@@ -32,23 +32,23 @@ Learning React Native by building a Foking Weather App
 
 <br />
 
-## **주요기능 & 코드 리뷰**
+## **🕹주요기능 & 💻코드 리뷰**
 
 <br />
 
 ```
-주요 기능
+🕹주요 기능
 - GPS(위치 정보) 받기
 - 위치 정보를 통해 날씨 정보 제공
 ```
 
 <br />
 
-## **1. GPS(위치 정보) 받기**
+## **1. 📍GPS(위치 정보) 받기**
 
 <br />
 
-### **코드 리뷰**
+### **💻코드 리뷰**
 
 <br />
 
@@ -59,7 +59,7 @@ Learning React Native by building a Foking Weather App
 
 <br />
 
-#### **App.js**
+#### **📄App.js**
 
 ---
 
@@ -144,11 +144,11 @@ getWeather = async (latitude, longitude) => {
 
 <br />
 
-## **2. 위치 정보를 통해 날씨 정보 제공**
+## **☁2. 위치 정보를 통해 날씨 정보 제공**
 
 <br />
 
-### **코드 리뷰**
+### **💻코드 리뷰**
 
 <br />
 
@@ -156,7 +156,7 @@ getWeather = async (latitude, longitude) => {
 
 <br />
 
-#### **weather.js**
+#### **📄weather.js**
 
 ---
 
@@ -274,7 +274,7 @@ export default function Weather({ temp, condition, location }) {
 
 <br />
 
-## **마무리 소감**
+## **😎마무리 소감**
 
 <br />
 
