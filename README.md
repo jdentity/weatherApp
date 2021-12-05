@@ -88,7 +88,7 @@ getLocation = async () => {
 >
 > getCurrentPositionAsync() 함수로 사용자의 위도와 경도 정보를 얻습니다.
 >
-> 위치 정보 처리 순서를 보장하기 위해 비동기적(async await)으로 요청합니다.
+> 위치 정보 처리 순서를 보장하기 위해 비동기적 처리 패턴(async await)으로 요청합니다.
 >
 > 위도와 경도 변수를 통해 getWeather()함수를 호출합니다.
 
